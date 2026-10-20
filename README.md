@@ -1,7 +1,7 @@
 # 🎨 ColorExtract
 
 <p>
-  <img src="./assets/banner.jpg" alt="project banner" width="100%">
+  <img src="./assets/banner.png" alt="project banner" width="100%">
 </p>
 
 **ColorExtract** is a lightweight, fast Python CLI tool designed to instantly convert colors between **HEX** and **RGB** formats right inside your terminal. Built specifically for web developers and designers who value speed and efficiency in a console environment.
