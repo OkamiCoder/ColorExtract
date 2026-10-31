@@ -23,7 +23,7 @@ The core feature of this utility is its **interactive color visualization** powe
 ## 🚀 Installation & Usage
 
 ### Requirements
-- Python 3.6 or higher.
+- Python 3.6+
 - A modern terminal emulator with Truecolor support.
 
 ### Running the App
