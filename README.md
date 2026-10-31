@@ -24,7 +24,7 @@ The core feature of this utility is its **interactive color visualization** powe
 
 ### Requirements
 - Python 3.6+
-- A modern terminal emulator with Truecolor support.
+- A modern terminal emulator with TrueColor support.
 
 ### Running the App
 The project uses only Python built-in modules (`os`, `re`, `sys`), meaning **zero external dependencies** are required.
