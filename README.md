@@ -46,7 +46,7 @@ The project uses only Python built-in modules (`os`, `re`, `sys`), meaning **zer
 
 - **Language:** Python 3
 - **Modules:** `sys`, `os`, `re` (Python Standard Library)
-- **UI & Styling:** ANSI Escape Sequences (Truecolor / 24-bit color)
+- **UI & Styling:** ANSI Escape Sequences (Truecolor / 24-bit colors)
 
 ---
 
